@@ -18,6 +18,10 @@ Agency: City of New York Department of Transportation (DOT)
 
 Drivers in New York City slammed on their gas pedals during COVID-19 pandemic. Will they slow down after quarantine? Our study compared the traffic speed data during 2020 Labor day weekend in five boroughs with last year's. Results reveal a trend of surge in speeding after quarantine. Despite that the city lowered its speed limit to 25 mph for urban and 45 for highway (marked with dotted lines), New Yorkers in all five boroughs drive above the speed limit. Brooklyn and Bronx are leading the surge. Even Manhattan drivers are putting more efforts in fighting traffic.
 
+## Deliverables
+
+![](https://github.com/tong-jin-nyu/data_viz-surge-in-speeding-NYC/blob/main/results/ratio_1-1_Jin_Tong_A3SR_Stu_Viz_Competition.jpg?raw=true)
+
 ## Packages
 
 - [ggplot2](https://ggplot2.tidyverse.org/)
