@@ -1,4 +1,4 @@
-# Data visualization showing surge in speeding in New York City
+# Data visualization showing surge in speeding in NYC
 
 Updated on: 10/03/20
 
