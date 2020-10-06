@@ -1,6 +1,6 @@
 # Data visualization showing surge in speeding in NYC
 
-Updated on: 10/03/20
+Updated on: 10/05/20
 
 ## Project Name
 
@@ -30,3 +30,7 @@ Drivers in New York City slammed on their gas pedals during COVID-19 pandemic. W
 - [httr](https://github.com/r-lib/httr)
 - [jsonlite](https://github.com/jeroen/jsonlite)
 - [RCurl](https://github.com/omegahat/RCurl)
+
+## NYU PRIISM
+
+![Center for Practice and Research at the Intersection of Information, Society, and Methodolog](https://steinhardt.nyu.edu/priism)
